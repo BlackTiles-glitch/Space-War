@@ -1,5 +1,3 @@
-# Space-War
-
 # Steps to Download
 1 install all the files in one folder
 2 inside that folder create a new folder named as "assets" and move all the files except file.py and Space war.exe to assets folder
